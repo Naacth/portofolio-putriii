@@ -1,0 +1,12 @@
+.footer {
+  width: 100%;
+  background: linear-gradient(90deg, #7f5af0 0%, #2cb67d 100%); /* ungu ke hijau emerald */
+  color: #fff;
+  text-align: center;
+  padding: 1.2rem 0;
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-top: 2rem;
+  box-shadow: 0 -2px 8px rgba(44,182,125,0.07);
+} 

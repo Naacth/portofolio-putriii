@@ -1,0 +1,57 @@
+.profile-section {
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 16px rgba(30, 200, 180, 0.08);
+  margin: 2rem auto;
+  max-width: 800px;
+  padding: 2.5rem 2rem;
+}
+
+.profile-section h2 {
+  color: #00b8d4;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.profile-main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.profile-info h3 {
+  color: #0097a7;
+  margin-bottom: 0.5rem;
+}
+
+.profile-info p {
+  color: #444;
+  margin-bottom: 1.2rem;
+}
+
+.profile-contacts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-contacts li {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin-bottom: 0.5rem;
+  color: #0097a7;
+  font-size: 1.05rem;
+}
+
+.profile-contacts a {
+  color: #00b8d4;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.profile-contacts a:hover {
+  text-decoration: underline;
+} 
